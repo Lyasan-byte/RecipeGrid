@@ -1,7 +1,7 @@
 # 🥘 RecipeGrid  
 *A clean, modern recipe manager built with SwiftUI*
 
-**RecipeGrid** is a personal iOS app designed to help users collect, organize, and manage their favorite recipes. Built entirely in **SwiftUI**, it combines a sleek, dark-themed interface with practical functionality — from image selection to local data persistence.
+**RecipeGrid** is a personal iOS app designed to help users collect, organize, and manage their favorite recipes.
 
 > This project was created as a learning exercise to deepen my understanding of modern SwiftUI patterns, data flow, and user experience design.
 
