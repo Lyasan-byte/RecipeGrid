@@ -2,7 +2,7 @@
 //  RecipeGridApp.swift
 //  RecipeGrid
 //
-//  Created by Ляйсан on 27/1/26.
+//  Created by Ляйсан on 3/12/25.
 //
 
 import SwiftUI
@@ -11,7 +11,8 @@ import SwiftUI
 struct RecipeGridApp: App {
     var body: some Scene {
         WindowGroup {
-            ContentView()
+            RecipesView()
+                .preferredColorScheme(.dark)
         }
     }
 }
