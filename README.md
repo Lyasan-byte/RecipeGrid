@@ -1,10 +1,6 @@
 # 🥘 RecipeGrid  
 *A clean, modern recipe manager built with SwiftUI*
 
-![SwiftUI](https://img.shields.io/badge/SwiftUI-FFAC45?style=flat&logo=swift&logoColor=white)
-![iOS](https://img.shields.io/badge/iOS-000000?style=flat&logo=apple&logoColor=white)
-![Swift 5.9+](https://img.shields.io/badge/Swift-5.9%2B-orange?style=flat)
-
 **RecipeGrid** is a personal iOS app designed to help users collect, organize, and manage their favorite recipes. Built entirely in **SwiftUI**, it combines a sleek, dark-themed interface with practical functionality — from image selection to local data persistence.
 
 > This project was created as a learning exercise to deepen my understanding of modern SwiftUI patterns, data flow, and user experience design.
@@ -13,19 +9,11 @@
 
 ## ✨ Features
 
-- **Add & Edit Recipes**: Create new recipes or update existing ones with title, summary, category, and custom image.
-- **Image Support**: Select photos from your library using `PhotosPicker` (iOS 16+) and save them locally.
-- **Local Persistence**:
-  - Recipe metadata (title, category, etc.) stored in **UserDefaults** via `Codable`.
-  - Recipe images saved to the app’s **caches directory** using `FileManager`.
-- **Smart Filtering & Sorting**:
-  - Filter by food category (Main, Appetizer, Salad, Dessert).
-  - Search by title or category.
-  - Sort alphabetically by name.
-- **Responsive UI**:
-  - Adaptive grid layout (`LazyVGrid`).
-  - Liquid Glass buttons and cards.
-  - Smooth navigation and sheet-based forms.
+- **Add & edit recipes** with title, summary, category, and custom image  
+- **Pick photos** from library using `PhotosPicker` (iOS 16+) and save them locally  
+- **Local persistence**: recipe data in `UserDefaults` (`Codable`), images in app cache via `FileManager`  
+- **Filter** by category, **search** by title/category, and **sort** alphabetically  
+- **Modern UI**: adaptive grid (`LazyVGrid`), liquid glass styling, and sheet-based forms
 
 ---
 
