@@ -45,8 +45,8 @@
 ## 📱 Screenshots
 
 <div align="center">
-  <img src="mainScreen.png" width="250" alt="Recipes List" />
-  <img src="detailedScreen.png" width="250" alt="Recipe detail screen" />
+  <img src="assets/mainScreen.png" width="250" alt="Recipes List" />
+  <img src="detailScreen.png" width="250" alt="Recipe detail screen" />
   <br>
   <em>From left to right: Recipe grid, detail view</em>
 </div>
