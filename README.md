@@ -47,3 +47,5 @@
 1. Clone the repository  
    ```bash
    git clone https://github.com/Lyasan-byte/RecipeGrid.git
+2. Open RecipeGrid.xcodeproj in Xcode 26+
+3. Build and run on an iOS simulator
