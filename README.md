@@ -21,8 +21,8 @@
 
 | Layer | Technology |
 |------|------------|
-| **UI Framework** | SwiftUI (iOS 16+) |
-| **State Management** | `@Observable` (Swift 5.9), `@Bindable` |
+| **UI Framework** | SwiftUI (iOS 17+) |
+| **State Management** | `@Observable` (Swift 6.0), `@Bindable` |
 | **Data Storage** | `UserDefaults` (for structured data), `FileManager` (for images) |
 | **Image Handling** | `PhotosPicker`, `UIImage`, PNG encoding |
 | **Architecture** | MVVM-inspired (View ↔ ViewModel ↔ Local Storage) |
@@ -30,14 +30,14 @@
 
 ---
 
-## 📱 Screenshots
+##  Screenshots
 
 <div align="center">
   <img src="assets/detailScreen1.png" width="250" alt="Recipe detail screen 1" />
   <img src="assets/mainScreen.png" width="250" alt="Recipes List" />
   <img src="assets/detailScreen2.png" width="250" alt="Recipe detail screen 2" />
   <br>
-  <em>From left to right: Detail view 1, Recipe grid, detail view 2</em>
+  <em>From left to right: Detail view 1, Recipe grid, Detail view 2</em>
 </div>
 
 ---
