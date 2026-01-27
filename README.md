@@ -33,11 +33,11 @@
 ## 📱 Screenshots
 
 <div align="center">
-  <img src="assets/mainScreen.png" width="250" alt="Recipes List" />
   <img src="assets/detailScreen1.png" width="250" alt="Recipe detail screen 1" />
+  <img src="assets/mainScreen.png" width="250" alt="Recipes List" />
   <img src="assets/detailScreen2.png" width="250" alt="Recipe detail screen 2" />
   <br>
-  <em>From left to right: Recipe grid, detail view 1 and 2</em>
+  <em>From left to right: Detail view 1, Recipe grid, detail view 2</em>
 </div>
 
 ---
