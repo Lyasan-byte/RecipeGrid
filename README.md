@@ -10,7 +10,7 @@
 ## ✨ Features
 
 - **Add & edit recipes**
-- **Pick photos** from library using `PhotosPicker` (iOS 16+) and save them locally  
+- **Pick photos** from library using `PhotosPicker` and save them locally  
 - **Local persistence**: recipe data in `UserDefaults` (`Codable`), images in app cache via `FileManager`  
 - **Filter** by category, **search** by title/category, and **sort** alphabetically  
 - **Modern UI**: adaptive grid (`LazyVGrid`), liquid glass styling, and sheet-based forms
@@ -21,7 +21,7 @@
 
 | Layer | Technology |
 |------|------------|
-| **UI Framework** | SwiftUI (iOS 17+) |
+| **UI Framework** | SwiftUI (iOS 26+) |
 | **State Management** | `@Observable` (Swift 6.0), `@Bindable` |
 | **Data Storage** | `UserDefaults` (for structured data), `FileManager` (for images) |
 | **Image Handling** | `PhotosPicker`, `UIImage`, PNG encoding |
