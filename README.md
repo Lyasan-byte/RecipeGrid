@@ -9,7 +9,7 @@
 
 ## ✨ Features
 
-- **Add & edit recipes** with title, summary, category, and custom image  
+- **Add & edit recipes**
 - **Pick photos** from library using `PhotosPicker` (iOS 16+) and save them locally  
 - **Local persistence**: recipe data in `UserDefaults` (`Codable`), images in app cache via `FileManager`  
 - **Filter** by category, **search** by title/category, and **sort** alphabetically  
@@ -34,9 +34,10 @@
 
 <div align="center">
   <img src="assets/mainScreen.png" width="250" alt="Recipes List" />
-  <img src="assets/detailScreen.png" width="250" alt="Recipe detail screen" />
+  <img src="assets/detailScreen1.png" width="250" alt="Recipe detail screen 1" />
+  <img src="assets/detailScreen2.png" width="250" alt="Recipe detail screen 2" />
   <br>
-  <em>From left to right: Recipe grid, detail view</em>
+  <em>From left to right: Recipe grid, detail view 1 and 2</em>
 </div>
 
 ---
