@@ -30,7 +30,7 @@
 
 ---
 
-##  Screenshots
+## 📷 Screenshots
 
 <div align="center">
   <img src="assets/detailScreen1.png" width="250" alt="Recipe detail screen 1" />
